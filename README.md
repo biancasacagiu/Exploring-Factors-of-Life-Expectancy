@@ -12,6 +12,5 @@ This dataset was created to answer the following questions:
  - Do densely populated countries tend to have a lower life expectancy?
  - What is the impact of Immunization coverage on life Expectancy?
  
-> Note: This file was formatted using Markdown - [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
->
+> Note: This file was formatted using Markdown - [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) <br>
 > Source: https://towardsdatascience.com/14-data-science-projects-to-do-during-your-14-day-quarantine-8bd60d1e55e1
